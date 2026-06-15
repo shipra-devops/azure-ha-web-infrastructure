@@ -1,0 +1,4 @@
+location            = "West US"
+resource_group_name = "your-rg-name"
+admin_username      = "replacewithyourusername"
+admin_password      = "replacewithyourpassword"
