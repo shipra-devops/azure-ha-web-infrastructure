@@ -161,5 +161,3 @@ This project was built as part of my Azure Cloud Administration learning journey
 ## Author
 
 **Shipra** — Cloud Administrator in training | [GitHub](https://github.com/shipra-devops)
-
-
